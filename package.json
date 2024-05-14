@@ -1,12 +1,11 @@
 {
-  "name": "Real_landing_site_numismatics",
+  "name": "Real-landing-site-numismatics",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://vadimtrubay.github.io/Real_landing_site_numismatics/",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Real_landing_site_numismatics/",
+    "build": "vite build",
     "preview": "vite preview"
   },
   "devDependencies": {
